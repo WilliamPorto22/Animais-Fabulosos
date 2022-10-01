@@ -1,12 +1,4 @@
-body,
-h1,
-h2,
-ul,
-li,
-p,
-dd,
-dt,
-dl {
+* {
   margin: 0px;
   padding: 0px;
 }
@@ -14,6 +6,11 @@ dl {
 img {
   display: block;
   max-width: 100%;
+}
+
+.img-slide {
+  width: 800px;
+  height: 530px;
 }
 
 ul {
