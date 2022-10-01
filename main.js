@@ -6851,7 +6851,7 @@ function r(t) {
     console.log(t);
     }
 })();
-})("./animaisapi.json", ".numeros-grid"),
+})("", ".numeros-grid"),
 (function (t, n) {
 fetch(t)
     .then((t) => t.json())

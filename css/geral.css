@@ -8,6 +8,10 @@ img {
   max-width: 100%;
 }
 
+.img-map {
+  border-radius: 6px;
+}
+
 .img-slide {
   width: 800px;
   height: 530px;
